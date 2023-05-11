@@ -1,5 +1,6 @@
 # 
 ## EventStorming Model
+![image](https://github.com/Lsuyeon/food-delivery/assets/89675167/d0d70cd2-5715-47f9-93ba-11836570014a)
 ## Model
 www.msaez.io/#/storming/food-delivery-Lsy
 
