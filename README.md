@@ -3,7 +3,7 @@
 ![image](https://github.com/Lsuyeon/food-delivery/assets/89675167/fc4b713a-9c22-4c4b-820c-9274aad5e63c)
 
 ## Saga (Pub / Sub)
-![image](https://github.com/Lsuyeon/food-delivery/assets/89675167/d0d70cd2-5715-47f9-93ba-11836570014a)
+![image](https://github.com/Lsuyeon/food-delivery/assets/89675167/36be45a6-b3a4-47ad-bdf9-fd0084f7fdd7)
 
 ## CQRS
 ![image](https://github.com/Lsuyeon/food-delivery/assets/89675167/de862618-6a1a-43f4-bbd3-5ab813335941)
