@@ -1,5 +1,8 @@
 # 
 ## EventStorming Model
+![image](https://github.com/Lsuyeon/food-delivery/assets/89675167/fc4b713a-9c22-4c4b-820c-9274aad5e63c)
+
+## Saga (Pub / Sub)
 ![image](https://github.com/Lsuyeon/food-delivery/assets/89675167/d0d70cd2-5715-47f9-93ba-11836570014a)
 ## Model
 www.msaez.io/#/storming/food-delivery-Lsy
