@@ -58,6 +58,41 @@ Transfer-Encoding: chunked
     "storeId": null
 }
 ```
+```
+gitpod /workspace/food-delivery (main) $ http :8082/foodCookings/6
+HTTP/1.1 200 
+Connection: keep-alive
+Content-Type: application/hal+json
+Date: Thu, 11 May 2023 21:46:19 GMT
+Keep-Alive: timeout=60
+Transfer-Encoding: chunked
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+
+{
+    "_links": {
+        "accept": {
+            "href": "http://localhost:8082/foodCookings/6/accept"
+        },
+        "foodCooking": {
+            "href": "http://localhost:8082/foodCookings/6"
+        },
+        "self": {
+            "href": "http://localhost:8082/foodCookings/6"
+        },
+        "start": {
+            "href": "http://localhost:8082/foodCookings/6/start"
+        }
+    },
+    "customerId": "lsy",
+    "foodId": "케밥",
+    "options": [],
+    "orderId": "7",
+    "status": "접수됨",
+    "storeId": null
+}
+```
 ## Model
 www.msaez.io/#/storming/food-delivery-Lsy
 
